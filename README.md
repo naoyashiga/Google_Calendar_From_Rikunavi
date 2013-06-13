@@ -28,15 +28,14 @@ ScreenShots
 4.Googleカレンダーに飛び、予定を登録できます。  
 ![ScreenShot](https://raw.github.com/naoyashiga/Chrome_Extensions/master/Google_Calendar_From_Rikunavi/screenshots/calendar.png)
 
-ダウンロードの仕方
+ダウンロードの仕方(初心者向け)
 ----
-git 1.7からsparse checkoutが使えます。  
+- ZIPボタンを押してダウンロードしてください。
+![ScreenShot](https://raw.github.com/naoyashiga/Google_Calendar_From_Rikunavi/master/screenshots/download.png)  
 
-    $ git clone https://github.com/naoyashiga/Chrome_Extensions.git
-    $ cd Chrome_Extensions/
-    $ git config core.sparsecheckout true
-    $ echo "Google_Calendar_From_Rikunavi/" > .git/info/sparse-checkout
-    $ git read-tree -m -u HEAD
+ダウンロードの仕方(gitユーザ向け)
+----
+    $ git clone https://github.com/naoyashiga/Google_Calendar_From_Rikunavi.git
 
 インストールの仕方
 ----
