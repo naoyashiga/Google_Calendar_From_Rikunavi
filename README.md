@@ -17,16 +17,16 @@ ScreenShots
 - (例)サイバーエージェントの場合  
 1.インターン募集ページに飛びます  
 <http://job.rikunabi.com/2015/company/internship/r925010098/>  
-![ScreenShot](https://raw.github.com/naoyashiga/Chrome_Extensions/master/Google_Calendar_From_Rikunavi/screenshots/cyber.png)
+![ScreenShot](https://raw.github.com/naoyashiga/Google_Calendar_From_Rikunavi/master/screenshots/cyber.png)
 
 2.ページ下部の「インターンシップ一覧」のところに、Googleカレンダーのボタンが追加されます
 
-![ScreenShot](https://raw.github.com/naoyashiga/Chrome_Extensions/master/Google_Calendar_From_Rikunavi/screenshots/sample.png)
+![ScreenShot](https://raw.github.com/naoyashiga/Google_Calendar_From_Rikunavi/master/screenshots/sample.png)
 
 3.赤丸で囲まれたGoogleカレンダーのボタンを押します  
 
 4.Googleカレンダーに飛び、予定を登録できます。  
-![ScreenShot](https://raw.github.com/naoyashiga/Chrome_Extensions/master/Google_Calendar_From_Rikunavi/screenshots/calendar.png)
+![ScreenShot](https://raw.github.com/naoyashiga/Google_Calendar_From_Rikunavi/master/screenshots/calendar.png)
 
 ダウンロードの仕方(初心者向け)
 ----
